@@ -28,36 +28,15 @@
    4. Построение модели прогнозирования оттока клиентов.
    5. Кластеризация клиентов.
 
-## Для работы проекта потребуются
-* библиотека pandas
+## Навыки и инструменты
 
-pandas as pd 
-* библиотека matplotlib
-
-import matplotlib.pyplot as plt 
-* библиотека numpy
-
-import numpy as np 
-* библиотека seaborn
-
-import seaborn as sns 
-* библиотека plotly
-
-import plotly.express as px 
-* алгоритмы и метрики
-
-from sklearn.preprocessing import StandardScaler 
-
-from sklearn.model_selection import train_test_split 
-
-from sklearn.linear_model import LogisticRegression 
-
-from sklearn.ensemble import RandomForestClassifier 
-
-from sklearn.metrics import accuracy_score, precision_score, recall_score 
-
-from sklearn.cluster import KMeans 
-
-from scipy.cluster.hierarchy import dendrogram, linkage 
-
-from sklearn.metrics import silhouette_score 
+* Python
+* Pandas
+* Scikit-learn
+* Matplotlib
+* Seaborn
+* Plotly
+* Numpy
+* машинное обучение
+* классификация
+* кластеризация
