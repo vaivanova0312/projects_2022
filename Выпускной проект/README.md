@@ -28,28 +28,22 @@
    4. Решение основной цели исследования.
    5. Проверка гипотез.
 
-## Для работы проекта потребуются
-* функции для работы со временем
-
-from datetime import datetime, timedelta
-* функции для работы со статистикой
-
-from scipy import stats as st 
-* библиотека pandas
-
-pandas as pd 
-* библиотека matplotlib
-
-import matplotlib.pyplot as plt 
-* библиотека numpy
-
-import numpy as np 
-* библиотека seaborn
-
-import seaborn as sns 
-* библиотека plotly
-
-import plotly.express as px 
-* библиотека math
-
-import math as mth 
+## Навыки и инструменты
+* Python
+* Pandas
+* SciPy
+* Matplotlib
+* Seaborn
+* Plotly
+* Numpy
+* Math
+* A/B-тестирование
+* Tableau
+* Power Point
+* когортный анализ
+* событийная аналитика
+* продуктовые метрики
+* проверка статистических гипотез
+* визуализация данных
+* построение дашбордов
+* подготовка презентаций
