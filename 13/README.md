@@ -29,20 +29,27 @@
    5. Проверка гипотез.
 
 ## Для работы проекта потребуется
-* импорт функций для работы со временем:
+* импорт функций для работы со временем
 
 from datetime import datetime, timedelta
 * импорт функций для работы со статистикой
+
 from scipy import stats as st 
 * импорт библиотеки pandas
+
 pandas as pd 
 * импорт библиотеки matplotlib
+
 import matplotlib.pyplot as plt 
 * импорт библиотеки numpy
+
 import numpy as np 
 * импорт библиотеки seaborn
+
 import seaborn as sns 
 * импорт библиотеки plotly
+
 import plotly.express as px 
 * импорт библиотеки math
+
 import math as mth 
